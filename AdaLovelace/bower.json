@@ -1,0 +1,21 @@
+{
+  "name": "AdaLovelace",
+  "homepage": "https://github.com/pekaaw/AdaLovelace",
+  "authors": [
+    "Warvik Per Kristian <fmsfpkw@fylkesmannen.no>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v3.3.7"
+  }
+}
