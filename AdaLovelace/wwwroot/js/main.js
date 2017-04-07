@@ -80,7 +80,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 ﻿var yell = __webpack_require__(0);
-yell('world');
+// yell('world');
 
 /***/ })
 /******/ ]);
