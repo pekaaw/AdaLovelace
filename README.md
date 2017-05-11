@@ -2,4 +2,4 @@
 
 Experiment to test out Azure
 
-[App folder](https://pekaaw.github.io/AdaLovelace/AdaLovelace/Readme.md)
+[App folder](https://pekaaw.github.io/AdaLovelace/AdaLovelace)
